@@ -74,7 +74,8 @@ def main():
 
 	for length_of_word in guessing_word: 							#for the lenght of my word
 		right_guessed_letter.append('_ ') 							#create a list of blank spaces
-		print right_guessed_letter 										# shows it
+	
+	print right_guessed_letter 										# shows it
 
 
 
@@ -119,4 +120,3 @@ main()
 
 
 
-'''
